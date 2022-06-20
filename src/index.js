@@ -1,7 +1,8 @@
 import React, { PureComponent } from 'react';
 import ReactDOM from 'react-dom';
 import { View } from 'react-native';
-import lottie from 'lottie-web/build/player/lottie_light.min.js';
+// import lottie from 'lottie-web/build/player/lottie_light.min.js';
+import lottie from 'lottie-web';
 
 class Animation extends PureComponent {
   animationDOMNode = null;
