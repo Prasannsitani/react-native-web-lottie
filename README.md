@@ -1,6 +1,6 @@
 # react-native-web-lottie
 
-> React Native for Web implementation of Lottie
+> React Native for Web implementation of Lottie by Prasann
 
 ## Getting started
 
